@@ -1,6 +1,6 @@
 {
   "name": "nayla-bot",
-  "version": "1.2",
+  "version": "0.9.86",
   "description": "Simple Wabot",
   "depecrated": "false",
   "main": "index.js",
@@ -17,16 +17,16 @@
   "keywords": [
     "botwea"
   ],
-  "homepage": "https://github.com/zevoffc/nayla",
+  "homepage": "https://github.com/Rinka433/KagashiXD",
   "author": {
-    "name": "zevoffc"
+    "name": "otsuka"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zevoffc/nayla.git"
+    "url": "git+https://github.com/Rinka433/KagashiXD.git"
   },
   "bugs": {
-    "url": "https://github.com/zevoffc/nayla/issues"
+    "url": "https://github.com/Rinka433/KagashiXD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
