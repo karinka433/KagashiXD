@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node",".","--db","https://json-server.nurutomo.repl.co/"]
+CMD ["node","."]
